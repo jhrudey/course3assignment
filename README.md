@@ -14,8 +14,6 @@ This repository consists of:
 -'README.md'
 -'CodeBook.md': a description of the variables in the final, tidy dataset, df_final, and the manipulations required to create this tidy dataset
 -'run_analysis.R': the R script used to manipulate the raw data and create the tidy dataset, df_final
--'df_final.txt': a tab-deliminated text file; the tidy dataset representing the means of the measurements per participant per activity from the variables that referred to mean or standard deviations in the original raw data
--'run_analysis.R'
 
 License: 
 If this data is used in a publication, the following citation referencing the original authors of the data is required:
